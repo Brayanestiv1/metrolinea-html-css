@@ -1,0 +1,21 @@
+.menu1 {
+    border:2px  solid red;
+    width:85%;
+    height: 100px;
+
+}
+.menulateral {
+    width: 15%;
+    height: 100vh;
+    position: absolute;
+    top: 8px;
+    right: 11px; 
+    background-color: black;
+}
+
+.img1 {
+    top: 243px;
+    left: 143px;
+    width: 196px;
+    height: 44px;
+}
